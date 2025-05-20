@@ -1,2 +1,2 @@
-# Project-Slash
+# Slash
 Unreal Engine Souls-Like Game
