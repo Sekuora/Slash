@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NexusActorComponent",
+	"Description": "Empty details panel for ActorComponent, to allow multiple actor components attachment without details duplication.",
+	"Category": "Other",
+	"CreatedBy": "FofayaGames",
+	"CreatedByURL": "https://github.com/Sekuora",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NexusActorComponent",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
